@@ -1,0 +1,15 @@
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\bin\Debug\Assignment Week1.exe.config
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\bin\Debug\Assignment Week1.exe
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\bin\Debug\Assignment Week1.pdb
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\Assignment Week1.csprojAssemblyReference.cache
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\MainWindow.g.cs
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\App.g.cs
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\Assignment Week1_MarkupCompile.cache
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\Assignment Week1_MarkupCompile.lref
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\MainWindow.baml
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\Assignment Week1.g.resources
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\Assignment_Week1.Properties.Resources.resources
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\Assignment Week1.csproj.GenerateResource.cache
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\Assignment Week1.csproj.CoreCompileInputs.cache
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\Assignment Week1.exe
+C:\Users\mewsk\source\repos\Assignment Week1\Assignment Week1\obj\Debug\Assignment Week1.pdb
